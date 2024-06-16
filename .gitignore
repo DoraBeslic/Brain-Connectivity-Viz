@@ -1,0 +1,6 @@
+.env
+venv
+.DS_Store
+nilearn_cache
+__pycache__/plot_circos.cpython-312.pyc
+src/__pycache__/circos_functions.cpython-312.pyc

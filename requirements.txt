@@ -1,0 +1,6 @@
+numpy == 1.26.4
+pandas == 2.2.2
+pycirclize
+matplotlib == 3.9.0
+nilearn >= 0.9.0
+seaborn
