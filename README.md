@@ -12,6 +12,8 @@ pip install -r requirements.txt
 
 ## Code to create a Circos plot of brain functional connectivity from an ADHD fMRI resting-state dataset.
 
+![circos_plot](https://github.com/DoraBeslic/Brain-Connectivity-Viz/assets/122387780/c57ef3d0-87b2-4926-9f03-46e9d203cca5)
+
 ### Data: 
 - One subject from the **Nitrc adhd resting-state dataset** [[1]](#1), accessed via `nilearn.datasets`.
 - **Atlases**: Atlases used for parcellation of fMRI images.
@@ -25,7 +27,6 @@ pip install -r requirements.txt
 ### Circos plot:
 - Track is a heatmap of weighted connectivity degrees.
 - Links represent functional connectivity as Z-scores.
-
 
 ### References
 <a id="1">[1]</a>
