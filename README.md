@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ### Data: 
 - One subject from the **Nitrc adhd resting-state dataset** [[1]](#1), accessed via `nilearn.datasets`.
 - **Atlases**: Atlases used for parcellation of fMRI images.
-- **roi_list_198.csv**: Dataframe of ROI information from parcellation scheme including atlas, network, label, hemisphere, and coordinates. 
+- **roi_list_198.csv**: Dataframe of region of interest (ROI) information from parcellation scheme including atlas, network, label, hemisphere, and coordinates. 
 
 ### Code:
 - **circos_functions.py**: All functions for the creation of a circos plot.
